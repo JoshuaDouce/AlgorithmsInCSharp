@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj", "{0C4A252D-5604-4D95-A562-043A0F6E3583}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{BCD2DF2B-D60B-46BC-A86F-FC345217DDB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0C4A252D-5604-4D95-A562-043A0F6E3583}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C4A252D-5604-4D95-A562-043A0F6E3583}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C4A252D-5604-4D95-A562-043A0F6E3583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD2DF2B-D60B-46BC-A86F-FC345217DDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD2DF2B-D60B-46BC-A86F-FC345217DDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD2DF2B-D60B-46BC-A86F-FC345217DDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD2DF2B-D60B-46BC-A86F-FC345217DDB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
